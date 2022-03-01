@@ -1,0 +1,26 @@
+{
+  "name": "breads-projects",
+  "version": "1.0.0",
+  "description": "My first full stack API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AydaMkd/Breads-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AydaMkd/Breads-Projects/issues"
+  },
+  "homepage": "https://github.com/AydaMkd/Breads-Projects#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-react-views": "^0.11.0"
+  }
+}
